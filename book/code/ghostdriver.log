@@ -1,0 +1,41 @@
+SetProcessDpiAwareness failed: "COM error 0x80070005  (Unknown error 0x0ffffffff80070005)"
+[INFO  - 2019-07-30T13:44:35.337Z] GhostDriver - Main - running on port 25374
+[INFO  - 2019-07-30T13:44:39.643Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-07-30T13:44:39.643Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - page.customHeaders:  - {}
+[INFO  - 2019-07-30T13:44:39.644Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-07-30T13:44:39.644Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2d6a3e70-b2d0-11e9-9f15-6d993febf6eb
+[ERROR - 2019-07-30T13:44:40.448Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'cpath.includes("scores")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-07-30T13:44:40.448Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - page.onError - stack:
+  getPageName (https://stats.nba.com/players/list/:88)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-07-30T13:44:41.292Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - page.onError - msg: TypeError: undefined is not an object (evaluating 'window.AdFuelUtils.cdnRoot')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-07-30T13:44:41.292Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - page.onError - stack:
+  adFuelBuilder (https://s.cdn.turner.com/ads/nba2/adfuel.js:33)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-07-30T13:44:41.292Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - page.onError - msg: ReferenceError: Can't find variable: AdFuel
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-07-30T13:44:41.292Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - page.onError - stack:
+  global code (https://s.cdn.turner.com/ads/nba2/nba_stats.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-07-30T13:44:41.293Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - page.onError - msg: ReferenceError: Can't find variable: AdFuel
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-07-30T13:44:41.293Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - page.onError - stack:
+  global code (https://stats.nba.com/players/list/:1321)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-07-30T13:44:51.680Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'googletag.pubads()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-07-30T13:44:51.680Z] Session [2d6a3e70-b2d0-11e9-9f15-6d993febf6eb] - page.onError - stack:
+  (anonymous function) (https://stats.nba.com/players/list/:4)
+
+  phantomjs://platform/console++.js:263 in error

@@ -1,0 +1,30 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+body {
+    /*background: #fffeee;*/
+    margin: 0;
+    /*background-color: #D5E8D4;*/
+    /*background-color: #fdf9f3;*/
+    background-color: #fffeee;
+    /*background-color: #ffffff;*/
+}
+
+.container-lg {
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 21px;
+    /*font-size: 1.2em;*/
+    font-weight: 400;
+    color: rgba(0,0,0,0.8);
+    font-family: Georgia, serif;
+    line-height: 1.5em;
+
+}
+
+a {
+    color: #5b8354;
+}
