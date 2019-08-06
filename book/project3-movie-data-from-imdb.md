@@ -12,7 +12,7 @@ We will do following tasks when scrape IMDb site :
 * Scrape best movies with detail information
 * Scrape large posters for best movies
 
-#### Mission 1 : scrape list of best ever movies
+### Mission 1 : scrape list of best ever movies
 
 Access this [url](https://www.imdb.com/chart/top?ref_=nv_mv_250) , a list of 250 best ever movies will show up. In this mission, we will try to scrape all of this movie title.
 
@@ -70,7 +70,7 @@ And then running above code we will have following result
 
 
 
-#### Mission 2 : scrape list of best ever movies with detail infor (try it your self)
+### Mission 2 : scrape list of best ever movies with detail infor (try it your self)
 
 From above full title we could extract following information
 
@@ -98,7 +98,7 @@ link   :  /title/tt0068646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-89
 
 
 
-#### Mission 3 : Scrape large poster for all movies (try it your self)
+### Mission 3 : Scrape large poster for all movies (try it your self)
 
 With each individual movie, when click to detail link, detail page will show up. In detail page contain large poster that we want to scrape in this mission.
 

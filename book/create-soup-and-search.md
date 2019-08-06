@@ -6,7 +6,7 @@ layout: default
 
 At step 3, after have HTML content downloaded with selenium, we use `beautiful soup` to parse the HTML and start search for tags which contain our wanted data.
 
-#### Install Beautiful Soup
+### Install Beautiful Soup
 
 We need to install `beautiful soup` package before using it.
 
@@ -14,7 +14,7 @@ We need to install `beautiful soup` package before using it.
 pip install beautifulsoup4
 ```
 
-#### Create Soup Object
+### Create Soup Object
 
 For easy of explain, we will use a predefine HTML content as following code.  When we do actual web scraping, step 2 will provide HTML content with `driver.page_source`
 
@@ -47,7 +47,7 @@ html = """
 soup = BeautifulSoup(html, 'lxml')
 ```
 
-#### Search for First Tag by Name
+### Search for First Tag by Name
 
 To search the first tag by name, we use function `find` and pass in the tag name. For example following code return the first `p` tag
 
@@ -66,7 +66,7 @@ Result print out
 """
 ```
 
-#### Search for All Tags by Name
+### Search for All Tags by Name
 
 To search for all tags by name, we use function `find_all` then pass in the tag name. For example following code return all `a` tags in a list.
 
@@ -87,7 +87,7 @@ Result when print out
 """
 ```
 
-#### Search with Tag Name and Class Attribute
+### Search with Tag Name and Class Attribute
 
 In real project, many time we want to search for a tag with specific class name. To do that we put in tag name and `class_` parameter.
 
@@ -110,7 +110,7 @@ Above code will return the first `p` tag which have `class` is "story"
 """
 ```
 
-#### Search with Tag Name and Other Attribute
+### Search with Tag Name and Other Attribute
 
 Beside of using `class` attribute for search, we could use any other attribute. To do that we put in tag name and attribute parameter with grammar `{'attribute_name': attribute_value}`
 
@@ -129,7 +129,7 @@ And it will return
 """
 ```
 
-#### Search with Tag Name and Text Inside
+### Search with Tag Name and Text Inside
 
 Another way to search is using tag name and text inside that tag. To do that we use `string` parameter.
 
@@ -150,7 +150,7 @@ And it will return
 
 
 
-#### Search Scope
+### Search Scope
 
 You could see that HTML content page is structured in tree. So after find out the parent tag, we can find out child inside that parent.
 

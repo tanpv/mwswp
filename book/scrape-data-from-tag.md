@@ -37,7 +37,7 @@ html = """
 soup = BeautifulSoup(html, 'lxml')
 ```
 
-#### Scrape for text
+### Scrape for text
 
 To scrape the text inside a tag we just need to use grammar `tagname.text`
 
@@ -58,7 +58,7 @@ The Dormouse's story
 
 
 
-#### Scrape for link
+### Scrape for link
 
 To scrape the link inside `a` tag, we just need to access attribute `href` 
 

@@ -16,7 +16,7 @@ layout: default
 
   
 
-#### Mission 1 : scrape name of all active player
+### Mission 1 : scrape name of all active player
 
 Let access url https://stats.nba.com/players/list/ , you will see full list of player order in alphabet list.
 
@@ -81,7 +81,7 @@ Alexander, Kyle
 
 
 
-#### Mission 2 : scrape name and detail link of all active player (try it your self)
+### Mission 2 : scrape name and detail link of all active player (try it your self)
 
 In this mission we scrape name and correspond link to detail information of that player.
 
@@ -141,7 +141,7 @@ pie :  12.0
 
 
 
-#### Mission 4 : scrape image for all players (try it your self)
+### Mission 4 : scrape image for all players (try it your self)
 
 Now we want to get image for each player
 

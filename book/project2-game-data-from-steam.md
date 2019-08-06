@@ -10,7 +10,7 @@ Steam is a video game digital distribution platform developed by Valve Corporati
 * Scrape top selling items with detail information description
 * Login to steam before doing scraping
 
-#### Mission 1 : scrape top selling items
+### Mission 1 : scrape top selling items
 
 Let access [this url](https://store.steampowered.com/search/?filter=topsellers)
 
@@ -88,7 +88,7 @@ https://store.steampowered.com/app/646570/Slay_the_Spire/?snr=1_7_7_topsellers_1
 
 
 
-#### Mission 2 : scrape top selling items with detail information (try it your self)
+### Mission 2 : scrape top selling items with detail information (try it your self)
 
 Try click to one game item, we will go to detail page. In this page have session to have detail information
 
@@ -102,9 +102,7 @@ When running your code result should some thing like below video
 
 
 
-#### Mission 3 : login to steam before do scraping (try it your self)
+### Mission 3 : login to steam before do scraping (try it your self)
 
-In mission 2 you will see from result that some of game require you above age of 18 in order to view description.
-
-To solve this issue we will try to login to steam before doing scraping.
+In mission 2 you will see from result that some of game require you above age of 18 in order to view description. To solve this issue we will try to login to steam before doing scraping.
 

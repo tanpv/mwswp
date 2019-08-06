@@ -14,7 +14,7 @@ We will use [NBA](https://www.nba.com/#/) for our demo, let access NBA with Chro
 
 
 
-#### Chrome Developer Tool
+### Chrome Developer Tool
 
 We will use `Chrome Developer Tool` to inspect NBA home page. Now mouse over web page then right click, then select `Inspect` from context menu.
 
@@ -22,13 +22,13 @@ We will use `Chrome Developer Tool` to inspect NBA home page. Now mouse over web
 
 
 
-A panel will open and show up corespond HTML content of NBA home page. We saw that HTML show on a tree structure and very easy to navigate from tag to tag.
+A panel will open and show up correspond HTML content of NBA home page. We saw that HTML show on a tree structure and very easy to navigate from tag to tag.
 
 ![](images/2019-07-27_16-17-45.jpg)
 
 
 
-#### Example 1 : Inspect NBA News
+### Example 1 : Inspect NBA News
 
 Suppose we want to scrape all ***title and link*** inside the box "LATEST AROUND THE NBA".
 
@@ -55,7 +55,7 @@ So for conclusion we have following strategy to scrape all new title inside "LAT
 
 
 
-#### Example 2 : Inspect NBA Players
+### Example 2 : Inspect NBA Players
 
 Suppose we want to ***scrape detail data for each players*** on link https://www.nba.com/players.
 
@@ -71,15 +71,15 @@ Inside the `div` we found above, we nee do to find all `a` tag with class name `
 
 
 
-From link for each player above, we go to detail page, for example we go to detail page for player Steven Adams at reference. In this page, we need to find `div` tag with class name `nba-player-vitals` which contain all detail informations
+From link for each player above, we go to detail page, for example we go to detail page for player Steven Adams at reference. In this page, we need to find `div` tag with class name `nba-player-vitals` which contain all detail information
 
 ![](images/2019-07-27_20-54-34.jpg)
 
 
 
-That it, now let sumary again strategy to get detail information for each players:
+That it, now let summary again strategy to get detail information for each players:
 
-* From url https://www.nba.com/players search for `div` tag which has class name `players-wrapper`.
+* From URL https://www.nba.com/players search for `div` tag which has class name `players-wrapper`.
 * Inside `div` above, search for all `a` tags which has class name `playerList`.
 * Which each `a` tags above, we scrape `href` attribute to have link to detail information for each player.
-* Inside each detail url, for example https://www.nba.com/players/steven/adams/203500 we search for `div` tag which has class name `nba-player-vitals` . Inside this `div` tag contain all detail data we need.
+* Inside each detail URL, for example https://www.nba.com/players/steven/adams/203500 we search for `div` tag which has class name `nba-player-vitals` . Inside this `div` tag contain all detail data we need.
