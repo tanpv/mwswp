@@ -6,29 +6,29 @@ layout: default
 
 ![](images/big_picture.png)
 
-In this chapter, we overview on common web scraping steps. Actually this is really simple process.
+What are common steps which you need to do for all web scraping tasks ?
 
-**Step 1** : Web scraping always start with a web page and data items which we want to scrape out from the page. At first step, we need to understand web page then find out  HTML tags contain our wanted data. Result from this step will be used in final step to actually scrape data.
-
-
-
-**Step 2** : Wanted Data is located inside HTML page.  We download HTML to local. We use Selenium for download.
+**Inspecting** : Mean understand where your data located inside html page ? We use `chrome developer tool` to inspect what `tag` contain our wanted data.
 
 
 
-**Step 3** : After have HTML page, we use Beautiful Soup to parse HTML content in to object. Then we search for HTML tags which contain our data.
+**Download html** : We use `selenium` to download html.
 
 
 
-**Step 4** : Final step is scraping data and store it to file  or database. In this book we will make it simple by store data to file.
+**Search for Tag** : After have html content, we use `Beautiful Soup` to parse html. Then we search for `tag` which contain our data.
 
 
 
-#### Selenium
+**Scrape data** : Final step is scraping data from `tag` and store it to file  or database.
+
+
+
+### Selenium
 
 We use <a href="https://www.seleniumhq.org/" target="_blank">Selenium</a> to control browser and download HTML content. 
 
-Why we not just use simple library like requests to download HTML content ?. 
+Why not just use simple library like requests to download HTML content ?. 
 
 Have 2 reasons:
 
@@ -37,8 +37,6 @@ Have 2 reasons:
 
 
 
-#### Beautiful Soup
+### Beautiful Soup
 
-We need [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to parse HTML in to object. Beautiful Soup provide functions help us to search HTML tags inside HTML object.
-
-After have HTML tags, final step just about access wanted data and save.
+We need [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to parse HTML in to object. Beautiful Soup provide functions help us to search HTML tags inside HTML object. After have HTML tags, final step just about access wanted data and save.
