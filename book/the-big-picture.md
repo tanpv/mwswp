@@ -6,19 +6,13 @@ layout: default
 
 ![](images/big_picture.png)
 
-What are common steps which you need to do for all web scraping tasks ?
+What steps you need to do for all web scraping tasks ?
 
 **Inspecting** : Mean understand where your data located inside html page ? We use `chrome developer tool` to inspect what `tag` contain our wanted data.
 
-
-
 **Download html** : We use `selenium` to download html.
 
-
-
 **Search for Tag** : After have html content, we use `Beautiful Soup` to parse html. Then we search for `tag` which contain our data.
-
-
 
 **Scrape data** : Final step is scraping data from `tag` and store it to file  or database.
 
