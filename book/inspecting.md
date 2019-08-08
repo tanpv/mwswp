@@ -34,7 +34,7 @@ Suppose we want to scrape all ***title and link*** inside the box "LATEST AROUND
 
 Move mouse up and down on HTML tree view to findout what web page items is selected when we select corespond tag.
 
-We found that when mouse select `div` tag which has class name `content_list--collection`, the whole news area will be selected. So the first step should be find the `div` tag with class name `content_list--collection`.
+We found that when mouse select `div` tag which has class name `content_list--item_wrapper`, the whole news area will be selected. So the first step should be find the `div` tag with class name `content_list--item_wrapper`.
 
 ![](images/2019-07-27_16-55-23.jpg)
 
@@ -50,7 +50,7 @@ Continue try to moving the mouse around, we will see that titles and link are in
 
 So for conclusion we have following strategy to scrape all new title inside "LATEST AROUND THE NBA"
 
-* Search for `div` tag which has class name `content_list--collection`.
+* Search for `div` tag which has class name `content_list--item_wrapper`.
 * Inside above `div` tag, search for all `a` tags which have class name `content_list--item clearfix`.
 
 
