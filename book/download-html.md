@@ -35,13 +35,13 @@ driver_path = r'C:\chromedriver_win32\chromedriver.exe'
 driver = webdriver.Chrome(executable_path=driver_path)
 ```
 
-Now with `driver` object, we could download HTML content with `get` function. Support we want to download HTML from https://www.nba.com/. You could see that a Chome browser instance is created then NBA home page is loaded.
+Now with `driver` object, we could download HTML content with `get` function. Support we want to download HTML from https://www.nba.com/. You could see that a Chrome browser instance is created then NBA home page is loaded.
 
 ```python
 driver.get('https://www.nba.com/')
 ```
 
-Now to access HTML content, we just need to use propery `page_source`
+Now to access HTML content, we just need to use property `page_source`
 
 ```python
 print(driver.page_source)
