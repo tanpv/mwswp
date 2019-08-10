@@ -129,44 +129,30 @@ And it will return
 """
 ```
 
-### Search with Tag Name and Text Inside
-
-Another way to search is using tag name and text inside that tag. To do that we use `string` parameter.
-
-For example following code will return all `a` tag which has text inside is "Elsie"
-
-```python
-a_elsie = soup.find_all('a', string = 'Elsie')
-print(a_elsie)
-```
-
-And it will return
-
-```python
-"""
-[<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>]
-"""
-```
-
-
-
 ### Search Scope
 
-You could see that HTML content page is structured in tree. So after find out the parent tag, we can find out child inside that parent.
+You could see that HTML content page is structured in tree. Normal scenario is after find out the parent tag, we can find out children inside that parent.
 
 For example following code will return the first `b` tag inside the first `p` tag.
 
 ```python
-first_p = soup.find('p')
-first_b_inside_first_p = first_p.find('b')
+# search for parent
+p_contain_a_tags = soup.find('p', class_='story')
 
-print(first_b_inside_first_p)
+# search for children inside
+a_tags = p_contain_a_tags.find_all('a')
+
+print(a_tags)
 ```
 
 And it print out
 
 ```python
-"""
-<b>The Dormouse's story</b>
-"""
+[
+	<a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>,
+
+	<a class="sister" href="http://example.com/lacie" id="link2">Lacie</a>, 
+	
+	<a class="sister" href="http://example.com/tillie" id="link3">Tillie</a>
+]
 ```

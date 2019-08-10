@@ -11,4 +11,4 @@ driver.get('https://www.nba.com/')
 print(driver.page_source)
 
 # close browser
-driver.close()
+driver.quit()

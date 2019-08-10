@@ -26,10 +26,13 @@ html_doc = """
 
 soup = BeautifulSoup(html_doc, 'lxml')
 
-first_p = soup.find('p')
-first_b_inside_first_p = first_p.find('b')
+# search for parent
+p_contain_a_tags = soup.find('p', class_='story')
 
-print(first_b_inside_first_p)
+# search for children inside
+a_tags = p_contain_a_tags.find_all('a')
+
+print(a_tags)
 
 
 
