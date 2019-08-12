@@ -133,7 +133,7 @@ And it will return
 
 You could see that HTML content page is structured in tree. Normal scenario is after find out the parent tag, we can find out children inside that parent.
 
-For example following code will return the first `b` tag inside the first `p` tag.
+For example following code will return the first  all`a` tags inside the parent `p` tag.
 
 ```python
 # search for parent
