@@ -2,7 +2,8 @@
 layout: default
 ---
 
-We living in the world where skill to working with data is so important. People with skill working on data are making a lot of money. According to indeed.com, average salary for engineer working on data and AI is $169,930 per year. But if you good enough to go to the top, big company will pay you $1,000,000 per year.
+We living in the world where skill to working with data is so important. People with skill working on data are making a lot of money. According to indeed.com, average salary for engineer working on data and AI is $169,930 per year. 
+<!-- But if you good enough to go to the top, big company will pay you $1,000,000 per year. -->
 
 A lot of high value data could not get by using api, the simple reason is no have api for that data.
 This practical book want to introduce you how to get data from internet use Selenium and Beautiful soup.
