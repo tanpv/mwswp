@@ -40,4 +40,4 @@ def download_image_one_player(name, url):
 
 get_all_name_and_detail_link()
 
-# driver.quit()
+driver.quit()
