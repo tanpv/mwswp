@@ -2,15 +2,16 @@
 layout: default
 ---
 
-### IMDb projects
+### IMDb projects [(source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING)
 
 IMDb (Internet Movie Database) is an online database of information related to films, television programs, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, fan and critical reviews, and ratings.
 
-We will do following tasks when scrape IMDb site :
+We will do following tasks when scrape IMDb site:
 
 * Scrape list of best ever movies
 * Scrape best movies with detail information
 * Scrape large posters for best movies
+
 
 ### Mission 1 : scrape list of best ever movies
 

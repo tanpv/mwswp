@@ -2,9 +2,9 @@
 layout: default
 ---
 
-### NBA projects introduction
+### NBA projects [(source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING)
 
-[NBA](https://www.nba.com/) is popular site when you want to to find information about men's professional basketball league in North America. In this chapter we will do 4 difference missions to scraping data on this site.
+[NBA](https://www.nba.com/) is popular site when you want to to find information about men's professional basketball league in North America. In this chapter we will do 4 difference missions to scraping data on this site .
 
 * scrape name of all players
 
@@ -14,7 +14,6 @@ layout: default
 
 * scrape image of all players
 
-  
 
 ### Mission 1 : scrape name of all active player
 
