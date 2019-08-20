@@ -48,3 +48,4 @@ Hope you enjoy this book.
 * More than 2 hours of video screencast with coding
 * Full pdf version of this book  
 * Complete source code for all mission  
+* You have 30 days warrenty money back with out any question
