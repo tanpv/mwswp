@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### NBA projects [(screencast and full source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING)
+### NBA projects [(screencast and full source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2)
 
 [NBA](https://www.nba.com/) is popular site when you want to to find information about men's professional basketball league in North America. In this chapter we will do 4 difference missions to scraping data on this site .
 

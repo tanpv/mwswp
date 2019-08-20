@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Steam projects [(screencast and full source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING)
+### Steam projects [(screencast and full source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2)
 
 Steam is a video game digital distribution platform developed by Valve Corporation. We have 2 mission when scrape data from Steam
 

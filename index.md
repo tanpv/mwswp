@@ -44,7 +44,7 @@ Hope you enjoy this book.
 [Chapter 8 - Product Data from Amazon](book/project4-product-data-from-amazon.html)
 
 
-[Download entire course with](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING) :  
+[Download entire course with 9.9$](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2) :  
 * More than 2 hours of video screencast with coding
 * Full pdf version of this book  
-* Full complete source code for all mission  
+* Complete source code for all mission  

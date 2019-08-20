@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Amazon projects [(screencast and source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING)
+### Amazon projects [(screencast and source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2)
 
 Amazon is largest ecommerce site in the world. We will do following web scraping task on Amazon :
 
