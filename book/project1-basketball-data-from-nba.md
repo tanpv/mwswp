@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### NBA projects [(source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING)
+### NBA projects [(screencast and full source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING)
 
 [NBA](https://www.nba.com/) is popular site when you want to to find information about men's professional basketball league in North America. In this chapter we will do 4 difference missions to scraping data on this site .
 
@@ -14,8 +14,7 @@ layout: default
 
 * scrape image of all players
 
-
-### Mission 1 : scrape name of all active player
+<!-- ### Mission 1 : scrape name of all active player
 
 Let access url https://stats.nba.com/players/list/ , you will see full list of player order in alphabet list.
 
@@ -152,4 +151,4 @@ Result should as following video
 
 <video width="700" height="500" controls>  
     <source src="images/player_image.mp4" type="video/mp4">
-</video>
+</video> -->

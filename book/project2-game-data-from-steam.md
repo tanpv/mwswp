@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Steam projects [(source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING)
+### Steam projects [(screencast and full source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING)
 
 Steam is a video game digital distribution platform developed by Valve Corporation. We have 2 mission when scrape data from Steam
 
@@ -11,7 +11,7 @@ Steam is a video game digital distribution platform developed by Valve Corporati
 * Login to steam before doing scraping
 
 
-### Mission 1 : scrape top selling items
+<!-- ### Mission 1 : scrape top selling items
 
 Let access [this url](https://store.steampowered.com/search/?filter=topsellers)
 
@@ -107,3 +107,4 @@ When running your code result should some thing like below video
 
 In mission 2 you will see from result that some of game require you above age of 18 in order to view description. To solve this issue we will try to login to steam before doing scraping.
 
+ -->

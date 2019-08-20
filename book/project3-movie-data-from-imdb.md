@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### IMDb projects [(source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING)
+### IMDb projects [(screencast and source code)](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING)
 
 IMDb (Internet Movie Database) is an online database of information related to films, television programs, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, fan and critical reviews, and ratings.
 
@@ -13,7 +13,7 @@ We will do following tasks when scrape IMDb site:
 * Scrape large posters for best movies
 
 
-### Mission 1 : scrape list of best ever movies
+<!-- ### Mission 1 : scrape list of best ever movies
 
 Access this [url](https://www.imdb.com/chart/top?ref_=nv_mv_250) , a list of 250 best ever movies will show up. In this mission, we will try to scrape all of this movie title.
 
@@ -111,5 +111,5 @@ Let's try your self to scrape these posters, it will be very interesting. Result
 
 <video width="700" height="500" controls>  
     <source src="images/poster.mp4" type="video/mp4">
-</video>
+</video> -->
 
