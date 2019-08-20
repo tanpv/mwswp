@@ -30,3 +30,8 @@ Hope you enjoy this book.
 [Chapter 6 - Game Data from Steam](book/project2-game-data-from-steam.html)  
 [Chapter 7 - Movie Data from Imdb](book/project3-movie-data-from-imdb.html)  
 [Chapter 8 - Product Data from Amazon](book/project4-product-data-from-amazon.html)
+
+[Download entire course with](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING) :  
+* More than 2 hours of video screencast with coding
+* Full pdf version of this book  
+* Full complete source code for all mission  
