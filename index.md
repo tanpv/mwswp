@@ -31,20 +31,16 @@ Hope you enjoy this book.
 
 [Chapter 4 - Scrape Data from Tags](book/scrape-data-from-tag.html)  
 
-<!-- [Chapter 5 - Basket Ball Data from Nba](book/project1-basketball-data-from-nba.html)   -->
 [Chapter 5 - Basket Ball Data from Nba](book/project1-basketball-data-from-nba.html)  
 
-<!-- [Chapter 6 - Game Data from Steam](book/project2-game-data-from-steam.html)   -->
 [Chapter 6 - Game Data from Steam](book/project2-game-data-from-steam.html)  
 
-<!-- [Chapter 7 - Movie Data from Imdb](book/project3-movie-data-from-imdb.html)   -->
 [Chapter 7 - Movie Data from Imdb](book/project3-movie-data-from-imdb.html)  
 
-<!-- [Chapter 8 - Product Data from Amazon](book/project4-product-data-from-amazon.html) -->
 [Chapter 8 - Product Data from Amazon](book/project4-product-data-from-amazon.html)
 
 
 [Download Udemy Online Course](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2) :  
-* More than 2 hours of video screencast with coding
+* More 2.5 hours of video screencast with coding
 * Full pdf version of this book  
 * Complete source code for all mission  
