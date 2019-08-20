@@ -11,7 +11,7 @@ Amazon is largest ecommerce site in the world. We will do following web scraping
 * Scrape customer comment for each book inside "python programming" list
 * Scrape search result from multiple pages
 
-<!-- ### Mission 1 : scrape title and detail link
+### Mission 1 : scrape title and detail link
 
 Access the [link](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=python+programming) and you will see a list of python programming book
 
@@ -143,4 +143,4 @@ We could see that search result for "python programming" contain multiple pages 
 
 In this mission we will try to get book infor from all pages
 
-![](images/2019-08-04_23-52-11.jpg)  -->
+![](images/2019-08-04_23-52-11.jpg) 

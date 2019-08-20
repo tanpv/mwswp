@@ -13,7 +13,7 @@ We will do following tasks when scrape IMDb site:
 * Scrape large posters for best movies
 
 
-<!-- ### Mission 1 : scrape list of best ever movies
+### Mission 1 : scrape list of best ever movies
 
 Access this [url](https://www.imdb.com/chart/top?ref_=nv_mv_250) , a list of 250 best ever movies will show up. In this mission, we will try to scrape all of this movie title.
 
@@ -111,5 +111,5 @@ Let's try your self to scrape these posters, it will be very interesting. Result
 
 <video width="700" height="500" controls>  
     <source src="images/poster.mp4" type="video/mp4">
-</video> -->
+</video>
 

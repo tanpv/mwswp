@@ -9,7 +9,7 @@ A lot of high value data could not get by using api, the simple reason is no hav
 This practical book want to introduce you how to get data from internet use Selenium and Beautiful soup.
 This simply mean every thing you could see from web page, you could get it !
 
-hi, I am Marcus Pham.
+hi, I am Tan Pham.
 
 I write tech books and create online courses. All of my books and courses follow principles :  
 
@@ -44,8 +44,7 @@ Hope you enjoy this book.
 [Chapter 8 - Product Data from Amazon](book/project4-product-data-from-amazon.html)
 
 
-[Download entire course with 9.9$](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2) :  
+[Download Udemy Online Course](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2) :  
 * More than 2 hours of video screencast with coding
 * Full pdf version of this book  
 * Complete source code for all mission  
-* You have 30 days warrenty money back with out any question

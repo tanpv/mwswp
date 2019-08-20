@@ -14,7 +14,7 @@ layout: default
 
 * scrape image of all players
 
-<!-- ### Mission 1 : scrape name of all active player
+### Mission 1 : scrape name of all active player
 
 Let access url https://stats.nba.com/players/list/ , you will see full list of player order in alphabet list.
 
@@ -151,4 +151,4 @@ Result should as following video
 
 <video width="700" height="500" controls>  
     <source src="images/player_image.mp4" type="video/mp4">
-</video> -->
+</video>
