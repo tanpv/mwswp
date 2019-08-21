@@ -3,7 +3,8 @@ layout: default
 ---
 
 We living in the world where skill to working with data is so important. People with skill working on data are making a lot of money. According to indeed.com, average salary for engineer working on data and AI is $169,930 per year. 
-<!-- But if you good enough to go to the top, big company will pay you $1,000,000 per year. -->
+
+But if you good enough to go to the top, big company will pay you $1,000,000 per year.  
 
 A lot of high value data could not get by using api, the simple reason is no have api for that data.
 This practical book want to introduce you how to get data from internet use Selenium and Beautiful soup.
@@ -32,9 +33,9 @@ Hope you enjoy this book.
 
 [Chapter 9 - Crypto Data from CoinMarketCap - Access in Online Course](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2)  
 
-[Chapter 10 - Social Network Data from Twitter - Access in Online Course ](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2)  
+[Chapter 10 - Social Data from Twitter - Access in Online Course ](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2)  
 
-[Download Udemy Online Course](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2) :  
+[Download Best Online Course on Web Scraping with Python](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2) :  
 * More 2.5 hours of video screencast with coding
 * Full pdf version of this book  
 * Complete source code for all mission  
