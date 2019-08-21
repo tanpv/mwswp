@@ -30,6 +30,9 @@ Hope you enjoy this book.
 
 [Chapter 8 - Product Data from Amazon](book/project4-product-data-from-amazon.html)
 
+[Chapter 9 - Crypto Data from CoinMarketCap - Access in Online Course](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2)  
+
+[Chapter 10 - Social Network Data from Twitter - Access in Online Course ](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2)  
 
 [Download Udemy Online Course](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2) :  
 * More 2.5 hours of video screencast with coding
