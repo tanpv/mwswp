@@ -9,15 +9,6 @@ A lot of high value data could not get by using api, the simple reason is no hav
 This practical book want to introduce you how to get data from internet use Selenium and Beautiful soup.
 This simply mean every thing you could see from web page, you could get it !
 
-hi, I am Tan Pham.
-
-I write tech books and create online courses. All of my books and courses follow principles :  
-
-* Start from beginner, step by step style
-* Focus on practical and code skill
-* Make thing as simple as possible
-* Working with real life projects
-* Explained in short, clear and simple way with graph, image and code example
 
 Hope you enjoy this book.
 
@@ -44,3 +35,13 @@ Hope you enjoy this book.
 * More 2.5 hours of video screencast with coding
 * Full pdf version of this book  
 * Complete source code for all mission  
+
+<!-- hi, I am Tan Pham.
+
+I write tech books and create online courses. All of my books and courses follow principles :  
+
+* Start from beginner, step by step style
+* Focus on practical and code skill
+* Make thing as simple as possible
+* Working with real life projects
+* Explained in short, clear and simple way with graph, image and code example -->
