@@ -14,10 +14,6 @@ auth.set_access_token(access_key, access_secret)
 # Creation of the actual interface, using authentication
 api = tweepy.API(auth)
  
-class MyStreamListener(tweepy.StreamListener):
-	def on_status(self, status):
-		print(status.text)
-
-myStreamListener = MyStreamListener()
-myStream = tweepy.Stream(auth = api.auth, listener=myStreamListener)
-myStream.filter(track=['money'])
+search = tweepy.Cursor(api.search, q="#Bitcoin", result_type="recent").items(100)
+for item in search:
+	print(item.text)
