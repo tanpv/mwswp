@@ -2,7 +2,8 @@
 layout: default
 ---
 
-A practical book & course on how to scraping any website with Python
+A practical book & course on how to scraping any website with Python. Coding with
+Selenium, BeautifulSoup, Pandas and social media API.  
 
   
 [Chapter 0 - The Big Picture](book/the-big-picture.html)  
