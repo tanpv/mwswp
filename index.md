@@ -28,8 +28,8 @@ Selenium, BeautifulSoup, Pandas and social media API.
 
 [Chapter 10 - Social Data from Twitter - Access in Online Course ](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2)  
 
-[Download Best Online Course on Web Scraping with Python](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2) :  
-* More 2.5 hours of video screencast with coding  
+[Access Master Web Scraping with Python Online Course with](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2):  
+* 3 hours of screencast with live coding  
 * Full pdf version of this book  
 * Complete source code for all mission  
 
