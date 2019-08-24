@@ -34,6 +34,7 @@ Selenium, BeautifulSoup, Pandas and social media API.
 * Full pdf version of this book  
 
 
+
 <!-- hi, I am Tan Pham.
 
 I write tech books and create online courses. All of my books and courses follow principles :  
