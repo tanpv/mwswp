@@ -30,8 +30,9 @@ Selenium, BeautifulSoup, Pandas and social media API.
 
 [Access Master Web Scraping with Python Online Course with](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2):  
 * 3 hours of screencast with live coding  
-* Full pdf version of this book  
 * Complete source code for all mission  
+* Full pdf version of this book  
+
 
 <!-- hi, I am Tan Pham.
 
