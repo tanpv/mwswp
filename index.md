@@ -24,11 +24,11 @@ Selenium, BeautifulSoup, Pandas and social media API.
 
 [Chapter 8 - Product Data from Amazon](book/project4-product-data-from-amazon.html)
 
-[Chapter 9 - Crypto Data from CoinMarketCap - Access in Online Course](https://www.datamadeeasy.co/courses/master-web-scraping-with-python-do-16-projects)  
+[Chapter 9 - Crypto Data from CoinMarketCap - Access in Online Course](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2)  
 
-[Chapter 10 - Social Data from Twitter - Access in Online Course ](https://www.datamadeeasy.co/courses/master-web-scraping-with-python-do-16-projects)  
+[Chapter 10 - Social Data from Twitter - Access in Online Course ](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2)  
 
-[Access Master Web Scraping with Python Online Course with](https://www.datamadeeasy.co/courses/master-web-scraping-with-python-do-16-projects):  
+[Access Master Web Scraping with Python Online Course with](https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/?couponCode=MASTERWEBSCRAPING2):  
 * 3 hours of screencast with live coding  
 * Complete source code for all mission  
 * Full pdf version of this book  
